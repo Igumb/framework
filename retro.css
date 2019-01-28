@@ -1,0 +1,25 @@
+.nav-wrapper{
+	font-family: 'Dosis', sans-serif;
+}
+
+.text{
+	margin: 75vh;
+	padding: 5vh; 
+}
+
+.page-footer{
+	margin-top: 75vh;
+}
+.image-footer{
+	width: 3%;
+	height: 3%;
+}
+
+.copyright{
+	color: #000000;
+}
+
+body{
+	background-image: url("img/background/record-player.jpg");
+	background-attachment: fixed;
+}
